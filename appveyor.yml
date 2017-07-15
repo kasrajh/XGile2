@@ -1,10 +1,4 @@
-version: 1.0.{build}
-before_build:
-- cmd: nuget restore
-build:
-  publish_wap: true
-  verbosity: minimal
-  deploy:
+deploy:
 	provider: Environment
 	name: XGile2
 	on:

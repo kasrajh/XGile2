@@ -1,0 +1,5 @@
+deploy:
+provider: WebDeploy
+name: XGile2
+on:
+branch: master

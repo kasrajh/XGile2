@@ -4,12 +4,8 @@ before_build:
 build:
   publish_wap: true
   verbosity: minimal
-  artifacts:
-- path: /
-  name: XGile2
-  type: WebDeployPackage
 deploy:
-  - provider: Environment
-    name: XGile2
-    on:
-       branch: master
+  provider: Environment
+  name: XGile2
+  on:
+    branch: master

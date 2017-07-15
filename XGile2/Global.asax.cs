@@ -12,6 +12,7 @@ namespace XGile2
     {
         protected void Application_Start()
         {
+            //dfsafsd;
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);

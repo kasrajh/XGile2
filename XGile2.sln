@@ -6,9 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XGile2", "XGile2\XGile2.csproj", "{AD78A7DE-0F24-4230-A630-6423D98E24EB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{67752FF0-C918-4445-8541-C4926F4D1E54}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\Users\Student\Downloads\appveyor.yml = ..\..\Users\Student\Downloads\appveyor.yml
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

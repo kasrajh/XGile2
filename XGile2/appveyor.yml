@@ -1,5 +1,0 @@
-deploy:
-provider: releases
-name: XGile2
-on:
-branch: master

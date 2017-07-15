@@ -1,5 +1,5 @@
 deploy:
-	provider: Environment
-	name: XGile2
-	on:
+provider: Environment
+name: XGile2
+on:
 branch: master
